@@ -11,6 +11,7 @@ namespace kot
         static void Main(string[] args)
         {
             Console.WriteLine("Привет");
+            Console.WriteLine("Пока"); Console.WriteLine("Привет"); Console.WriteLine("Привет");
         }
     }
 }
